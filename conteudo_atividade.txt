@@ -113,30 +113,3 @@ Explorar seleção por name, id, css selector ou xpath.
 Em dropdowns, usar Select do Selenium.
 
 Registrar valor final selecionado em cada campo no relatório.
-
-
-📝 Instruções Gerais
-Não copiem o código uns dos outros; explorem diferentes estratégias de localização de elementos.
-
-Configurem seu WebDriver apenas uma vez no início do script e finalizem com driver.quit().
-
-Tratamento de erros: capturem exceções (try/except) e incluam no relatório qualquer falha inesperada.
-
-Sigam a convenção de nomenclatura de arquivos e variáveis em Python (snake_case).
-
-Organizar commits no Git (mensagens claras).
-
-
-✅ Critérios de Avaliação
-Correta identificação dos elementos e uso de waits adequados.
-
-Clareza e organização do código, com comentários explicativos.
-
-Exaustividade dos relatórios: presença de todos os campos especificados.
-
-Tratamento de exceções e registro de falhas.
-
-Estrutura de pastas e convenção de nomes respeitadas.
-
-Entrega: Enviar o link Git no classroom como entrega para essa atividade.
-Boa prática de testes, bom uso de Selenium e boa sorte!
