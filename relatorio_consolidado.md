@@ -7,7 +7,8 @@ TC-003	Aguardar carregamento dinâmico de texto	 Passou	8.72
 TC-004	Simulação de compra de produto	 Passou	17.79
 TC-005	Preenchimento de formulário no Formy	 Passou	6.30
 Detalhes dos Testes
-🔹 TC-001: Login bem-sucedido com usuário padrão
+
+**TC-001: Login bem-sucedido com usuário padrão
 Site: SauceDemo
 
 Objetivo: Verificar se o login com credenciais válidas funciona corretamente.
@@ -47,7 +48,7 @@ O sistema exibiu a mensagem:
 
 Capturas: tc002_pagina_login_*.png, tc002_mensagem_erro_*.png.
 
-🔹 TC-003: Aguardar carregamento dinâmico de texto
+** TC-003: Aguardar carregamento dinâmico de texto
 Site: The Internet Herokuapp
 
 Objetivo: Verificar se o texto "Hello World!" aparece após carregamento dinâmico.
@@ -58,7 +59,7 @@ O texto "Hello World!" foi exibido após 5.27 segundos de espera.
 
 Capturas: tc003_pagina_inicial_*.png, tc003_apos_clique_*.png, tc003_texto_carregado_*.png.
 
-🔹 TC-004: Simulação de compra de produto
+** TC-004: Simulação de compra de produto
 Site: DemoBlaze
 
 Objetivo: Simular uma compra completa.
@@ -91,7 +92,7 @@ Compra confirmada com ID: 1275365 e Valor: 820 USD.
 
 Capturas: tc004_pagina_inicial_*.png, tc004_pagina_produto_*.png, tc004_carrinho_*.png, tc004_confirmacao_compra_*.png.
 
-🔹 TC-005: Preenchimento de formulário no Formy
+ **TC-005: Preenchimento de formulário no Formy
 Site: Formy
 
 Objetivo: Preencher e submeter um formulário complexo.
